@@ -6,3 +6,5 @@ In November 2021 Microsoft announced deprecation of Data Export Service (DES); a
 
 # Problem Statement
 However, customers who are already using Azure SQL DB in their current architecture heavily, and there are other dependencies or issues (code change, other Azure services integration with Azure SQL, performance etc.) adopting Azure Synapse Link for Dataverse leveraging SQL Serverless (Lake Database) are left without any choice at this time. This ADF template should help customers rapidly deploy Data Flow pipelines to help synchronize (Type-1) Synapse SQL Serverless with thier existing or new Azure SQL DB. 
+
+![image](https://user-images.githubusercontent.com/45402166/169075709-9bcfee45-e0e5-4f4b-9176-a9d61f4ced64.png)
