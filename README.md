@@ -21,3 +21,8 @@ Prerequisites:
   - Import the *.zip template from Integrate -> Import from pipeline template feature of Synapse Pipeline (or ADF)
 ![image](https://user-images.githubusercontent.com/45402166/169075976-1c8bb3da-4577-41b4-9f06-c905b4ef62bf.png)
 
+# Parameterized DataFlow
+![image](https://user-images.githubusercontent.com/45402166/169076463-16824b86-b441-4fb2-be98-74d32282ab0d.png)
+
+# ADF Pipeline with multiple Dataverse Table/Entities as Data Flows
+![image](https://user-images.githubusercontent.com/45402166/169076628-e33d54b2-c365-46b5-9345-7c3f527cd188.png)
